@@ -1,3 +1,5 @@
+Simple SongList app built using React and using Redux for state management. Provides examples of action creators, actions, reducers, and connecting to a Redux store. Example taken from the [Udemy Modern React with Redux course](https://www.udemy.com/react-redux/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
